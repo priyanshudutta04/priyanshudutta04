@@ -1,10 +1,12 @@
-![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
-<h1 align="center">Hey 👋, I'm Priyanshu Dutta</h1>
+![MasterHead](https://raw.githubusercontent.com/priyanshudutta04/FlutterTuitorial/Day-5/assets/images/git-ban-final.png?token=GHSAT0AAAAAACBVQ65GRSTYFCMWSUSEWIPQZCTY5GA)
+<h1 align="center">Aspiring SDE</h1>
 <h3 align="center">Pursuing BTECH in CSE-AI from TMSL</h3>
-<image align="right"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZlODM5Y2EyMTQyODM3Y2RkZmM0M2JmMjYwZWIwMTBkNzlhM2M1ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/USV0ym3bVWQJJmNu3N/giphy.gif"  height="300" alt="code">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshudutta04&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshudutta04" /> </p>
 
+<image align="right" padd  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZlODM5Y2EyMTQyODM3Y2RkZmM0M2JmMjYwZWIwMTBkNzlhM2M1ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/USV0ym3bVWQJJmNu3N/giphy.gif"  height="300" alt="code">
+  
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **flutter**
