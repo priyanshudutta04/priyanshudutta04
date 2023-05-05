@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/priyanshudutta04/FlutterTuitorial/Day-5/assets/images/git-ban-final.png?token=GHSAT0AAAAAACBVQ65HORVMTARYDMCMCYVKZCTZIQQ)
+![git-ban-final](https://user-images.githubusercontent.com/61914329/236375603-c2ee309c-0a6d-410e-b96c-67d8ee6bbcb4.png)
 <h1 align="center">Aspiring SDE</h1>
 <h3 align="center">Pursuing BTECH in CSE-AI from TMSL</h3>
 
