@@ -3,11 +3,11 @@
 <h3 align="center">Pursuing BTECH in CSE-AI from TMSL</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshudutta04&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshudutta04" /> </p>
+
 
 <image align="right" padd  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZlODM5Y2EyMTQyODM3Y2RkZmM0M2JmMjYwZWIwMTBkNzlhM2M1ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/USV0ym3bVWQJJmNu3N/giphy.gif"  width="35%" alt="code">
   
-- 🌱 I’m currently learning **App Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **flutter**
 
