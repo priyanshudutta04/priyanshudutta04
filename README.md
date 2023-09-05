@@ -28,6 +28,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshudutta04&show_icons=true&locale=en" alt="priyanshudutta04"  width="46%" /></p>
 <br />
 
-<p >&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshudutta04&" alt="priyanshudutta04"width="50%" /></p>
+
+<p >&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshudutta04&theme=solarized-dark&background=transparent&hide_border=true" alt="priyanshudutta04"width="50%" /></p>
 
 
