@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **flutter**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **priyanshudutta13@gmail.com**
 
