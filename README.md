@@ -31,4 +31,7 @@
 
 <p >&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshudutta04&theme=solarized-dark&background=transparent&hide_border=true" alt="priyanshudutta04"width="50%" /></p>
 
+##
+![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshudutta04&bg_color=false&color=ffffff&line=27e8a7&point=ffffff&title_color=55e6a5&area=true&area_color=55e6a5&hide_border=true)
+
 
